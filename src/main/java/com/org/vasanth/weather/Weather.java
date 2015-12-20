@@ -26,7 +26,7 @@ import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
 /**
- * @author Vasanth Mahendran & Siva Subramanian
+ * @author Vasanth Mahendran
  * 
  * This is an Hadoop Map/Reduce application for Working on weather data It reads
  * the text input files, breaks each line into stations weather data and finds
